@@ -1,0 +1,4 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/641CEECE-3FF4-42AE-8460-ABFBBEBD6533/d/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=58542:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/641CEECE-3FF4-42AE-8460-ABFBBEBD6533/d/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/Sahany/IdeaProjects/HelloWorld/out/production/HelloWorld Main
+Hello, Doug!
+
+Process finished with exit code 0
